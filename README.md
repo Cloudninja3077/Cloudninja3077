@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cloudninja3077
+- 👀 I’m interested in software and game development
+- 🌱 I’m currently learning windows powershell and c#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me jhirtle101@gmail.com
